@@ -44,7 +44,7 @@ class Weddingnote extends Component {
       .set(this.logo.current, {
         opacity: 1,
         scale: 2.75,
-        delay: 0.5
+        delay: 1
       })
       .to(this.logo.current, 8, { scale: 0.05, ease: Power2.easeOut })
       .to(this.logo.current, 1.5, { opacity: 0 }, "-=1.5")

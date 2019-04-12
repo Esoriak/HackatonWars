@@ -7,6 +7,10 @@
   height: 10vmin;
   pointer-events: none;
 }
+body{
+  background:url("https://i.pinimg.com/originals/9f/13/62/9f136252b9dab441cddfc0c2785f1b33.png");
+  width: 100%;
+  }
 
 .App-header {
   background-color: #282c34;
